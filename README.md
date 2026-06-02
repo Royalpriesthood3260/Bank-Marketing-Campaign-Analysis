@@ -27,6 +27,9 @@ bank-marketing-campaign/
 │
 ├── Bank Marketing Campaign Analysis.ipynb
 │
+│
+|── Bank Marketing Campaign Analysis.py
+│
 ├── plots/
 │   ├── plot1_subscription_by_job.png
 │   ├── plot2_subscription_by_month.png
