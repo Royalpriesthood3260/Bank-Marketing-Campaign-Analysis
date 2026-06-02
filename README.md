@@ -120,17 +120,7 @@ bank-marketing-campaign/
 
 ## 🚀 How to Run
 
-**1. Clone the repo**
-```bash
-git clone https://github.com/yourusername/bank-marketing-campaign.git
-```
-
-**2. Install dependencies**
-```bash
-pip install pandas matplotlib
-```
-
-**3. Run the notebook**
+**Run the notebook**
 ```
 Open Bank Marketing Campaign Analysis.ipynb in Jupyter Notebook and run all cells
 ```
